@@ -17,3 +17,15 @@ commands
 * add virtual environment on gitignore
 `<env_name>`
 `<env_name>/*`
+
+* create a service on cloud run
+
+* implantar continuamente
+
+* configurar com cloud build
+
+* selecionar repositório
+
+* selecionar branch
+
+* selecionar build type
