@@ -18,6 +18,8 @@ commands
 `<env_name>`
 `<env_name>/*`
 
+## cloud build
+
 * create a service on cloud run
 
 * implantar continuamente
@@ -29,3 +31,7 @@ commands
 * selecionar branch
 
 * selecionar build type
+
+## docker
+
+* create a docker file
